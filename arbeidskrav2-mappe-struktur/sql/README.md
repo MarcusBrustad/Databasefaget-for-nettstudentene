@@ -1,0 +1,1 @@
+# Beskrivelse av database oppsett og queries
