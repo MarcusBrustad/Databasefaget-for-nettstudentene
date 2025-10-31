@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/Musikk-DB/musikk_db_queries.sql" value="4bf72311-cbbb-43af-b7c0-eb7a18136dd0" />
+    <file url="file://$PROJECT_DIR$/Musikk-DB/setup_db.sql" value="4bf72311-cbbb-43af-b7c0-eb7a18136dd0" />
+  </component>
+</project>
